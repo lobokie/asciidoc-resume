@@ -1,0 +1,40 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";
+@import "https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@2.0/data/stylesheets/asciidoctor-default.css";
+
+
+/* ------------- */
+/* customization */
+/* ------------- */
+
+h1, h2, h3, h4, h5, h6, #toctitle,
+.sidebarblock > .content > .title {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+#header > .details {
+  display: none;
+}
+
+table {
+  border-collapse:separate;
+  border-spacing:0 0px;
+}
+
+tr { line-height: 0.2px; }
+
+td {
+  height: 0.1cm;
+  font-size: 0.05;
+}
+

@@ -1,0 +1,53 @@
+:title: Resume
+:author: Wolfgang Kiesenhofer
+:revision: 2021-01
+:keywords: resume, cv
+:icons: font
+:docinfo1: 
+:notoc: 
+:nofooter: 
+
+// :stylesheet: resume.css
+:stylesheet: boot-lumen.css
+
+= {title} - {author}
+
+[[personal-details]]
+== Personal Details
+[horizontal]
+Name:: Wolfgang Kiesenhofer
+Date of Birth:: 02.01.1982
+Nationality:: Austria
+Address:: Schloßbergweg 2, 83126 Flintsbach a. Inn
+Email:: wolfgang.kiesenhofer@gmail.com
+Mobile:: +49-176-20749917
+
+== Education
+[horizontal]
+04.2000 – 04.2002:: Hobbiton Kindergarden   
+04.2002 – 04.2011:: Hobbiton School 
+
+== Languages
+[horizontal]
+German:: Native
+English:: Near native
+
+
+== Technical Skills
+[horizontal]
+Certifications:: Certified Ring Bearer
+
+<<<
+
+== Employment History
+
+=== 01/2011~ -- Mines of Moria
+[horizontal,role="experience"]
+Title:: Mithril Quality Assurance
+Responsibilities::
+* Mail shirt quality assurance.
+* Process optimization.
+* Synergy seeker.
+Technolgies::
+* X-Ray Vision
+* Hammer 
